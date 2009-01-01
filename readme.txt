@@ -6,7 +6,9 @@ Requires at least: 1.5
 Tested up to: 2.7
 Stable tag: 0.1
 
-Enhance your casual links to look and work better.
+
+== Screenshots ==
+1. Link Improver Seeting
 
 == Description ==
 
@@ -24,5 +26,3 @@ Features include configurable colour scheme .
 4. Activate the plugin by clicking the 'activate' link
 5. Now go to the 'Options' section and select 'Link Improver' where you can configure the plugin
 
-== Screenshots ==
-1. Link Improver Seeting
