@@ -23,3 +23,6 @@ Features include configurable colour scheme .
 3. Log in to your WordPress admin and got to the 'Plugins' section. You should now see Link Improver in the list of available plugins
 4. Activate the plugin by clicking the 'activate' link
 5. Now go to the 'Options' section and select 'Link Improver' where you can configure the plugin
+
+== Screenshots ==
+1. Link Improver Seeting
