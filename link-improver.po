@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Link Improver\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Luke <kejinlu@gmail.com>\n"
+"Language-Team: Luke <kejinlu@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+#: link-improver.php:145
+msgid "Options Updated"
+msgstr "Options Updated"
+
+#: link-improver.php:149
+msgid "Unable to update options"
+msgstr "Unable to update options"
+
+#: link-improver.php:172
+msgid "Style Color Header"
+msgstr "Style the newly enhanced links with colour."
+
+#: link-improver.php:173
+msgid "Internal Color"
+msgstr "Internal Links Color :"
+
+#: link-improver.php:174
+msgid "External Color"
+msgstr "External Links Color :"
+
+#: link-improver.php:175
+msgid "Subdomain Color"
+msgstr "Subdomain Links Color :"
+
+#: link-improver.php:176
+msgid "Email Color"
+msgstr "Email Links Color"
+
+#: link-improver.php:177
+msgid "Custom Features"
+msgstr "Turn off any or all of these features."
+
+#: link-improver.php:178
+msgid "Notargets"
+msgstr " I don't want external links opened in a blank window !"
+
+#: link-improver.php:179
+msgid "Notitles"
+msgstr " I don't want title tags modified !"
+
+#: link-improver.php:180
+msgid "Nomailevents"
+msgstr " I don't want email links to have the onclick event !"
+
+#: link-improver.php:181
+msgid "About"
+msgstr "About The Link Improver"
+
+#: link-improver.php:182
+msgid "About Content"
+msgstr "The plugin created based on the <a href=\"http://oopstudios.com/dlink/index.html\">\"DLink\"</a> from <a href=\"http://oopstudios.com/about.html\">David</a>. And if you want to know how to use , you can <a href=\"http://www.hityou.net/link-improver\">look through the reference</a>!"
+
+#: link-improver.php:183
+msgid "Save Changes"
+msgstr "Save Changes"
+
