@@ -14,8 +14,6 @@ The plugin created based on the [DLink](http://oopstudios.com/dlink/index.html) 
  And if you want to know how to use , you can [look through the reference](http://www.hityou.net/link-improver)!
 By using the 'Link Improver',you can automatically enhance your casual links to look and work better.
 
-After you active the plugin, you can add <div class="dlink">...</div> to use the Link Improver in the post.
-
 Features include configurable colour scheme .
 
 == Installation ==
