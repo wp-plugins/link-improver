@@ -1,0 +1,84 @@
+/#~****************** -DLINK- changelog *******************~#\
+|                                                            |
+|  ,/         \,   OK, so here's the changelog, I wouldn't   |
+| ((__,-"""-,__))   expect to see much activity here cause   |
+|  `--)~   ~(--`    -DLINK- is for all intensive purposes    |
+| .-'(       )`-,   complete, but changes will be made if /  |
+| `~~`d\   /b`~~`   when people report errors or problems    |
+|     \     /       with the code! If you find any, email:   |
+|     (6___6)                                                |
+|      `YYY`       David King, <david@oopstudios.com>        |
+|                                                            |
+\#~********************************************************~#/
+
+/#~************* -DLINK- 0.9.6 - 20th Dec 2008 ************~#\
+|                                                            |
+| * Added 3 variables that modify the behaviour of -DLINK-   |
+|   for the people that find certain features conflict with  |
+|   their website setup. When linking to the lib these       |
+|   parameters can be added:                                 |
+|    * dlink.js?notargets&notitles&nomailevents              |
+|                                                            |
+| * Added a few more icons / file-extensions too             |
+|                                                            |
+\#~********************************************************~#/
+
+/#~************* -DLINK- 0.9.5 - 12th Dec 2008 ************~#\
+|                                                            |
+| * Seperated some of the functionality out so that you can  |
+|   highlight new areas *after* init has been called. Just   |
+|   pass DLINK.highlight an element and the rest is history! |
+|                                                            |
+\#~********************************************************~#/
+
+/#~************* -DLINK- 0.9.4 - 20th Nov 2008 ************~#\
+|                                                            |
+| * Links with "no_link" in their class are now skipped so   |
+|   that you can manually ignore individual links.           |
+|                                                            |
+| * Slight fix with the email notice - it just needed an     |
+|   unescape running on it. I'll get round to making this    |
+|   altogether more useful!                                  |
+|                                                            |
+\#~********************************************************~#/
+
+/#~************* -DLINK- 0.9.3 - 5th Nov 2008 *************~#\
+|                                                            |
+| * Probably the final version for a long time.              |
+|                                                            |
+| * -DLINK- now only parses the parts of the document that   |
+|   have been given the class of "dlink" so that you can     |
+|   keep your carefully designed navigations and whatnot.    |
+|                                                            |
+\#~********************************************************~#/
+
+/#~************* -DLINK- 0.9.2 - 4th Nov 2008 *************~#\
+|                                                            |
+| * -DLINK- now detects 2 new link types: email and anchor   |
+|   that it adds special icons for when needed.              |
+|                                                            |
+| * Email links have an extra layer of use added "onclick",  |
+|   unobtrusive of course                                    |
+|                                                            |
+\#~********************************************************~#/
+
+/#~************* -DLINK- 0.9.1 - 2nd Nov 2008 *************~#\
+|                                                            |
+| * I have added favicon detection to any "web" type links   |
+|   or links that it can't figure out.                       |
+|                                                            |
+| * More file-extensions and icons added too.                |
+|                                                            |
+\#~********************************************************~#/
+
+/#~************** -DLINK- 0.9 - 30th Oct 2008 *************~#\
+|                                                            |
+| * First incarnation of -DLINK-, features:                  |
+|   * Detects internal, external and subdomain links.        |
+|   * Detects the file-extention and adds an icon.           |
+|   * Adds target="_blank" to external links that need it.   |
+|                                                            |
+| * I intend to merge the code I use for adding favicons to  |
+|   my links soon for extra functionality.                   |
+|                                                            |
+\#~********************************************************~#/
