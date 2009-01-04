@@ -4,7 +4,7 @@ Plugin Name:Link Improver
 Plugin URI: http://www.hityou.net/link-improver
 Description:By using the 'Link Improver',you can automatically enhance your casual links to look and work better.
 Author: Luke
-Version: 0.1
+Version: 0.2
 Author URI: http://www.hityou.net
 */
 
@@ -60,6 +60,12 @@ EOF;
     }
 }
 
+
+function render_dlink($text){
+    $text = eregi_replace('\[dlink\s*\]', '<div class="dlink">', $text);
+    $text = eregi_replace('\[/dlink\s*\]', '</div>', $text);
+    return $text;
+}
 //creates the option variable
 function set_li_options () {
     add_option('link_improver','1','active the plugin');
@@ -263,4 +269,6 @@ add_action('admin_menu','modify_menu_for_li');
 //Adds the li to the right location
 add_action('wp_head', 'link_improver');
 add_action('init','load_language');
+add_filter('the_content', 'render_dlink', 10);
+add_filter('the_excerpt', 'render_dlink', 10);
 ?>

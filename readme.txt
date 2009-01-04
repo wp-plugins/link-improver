@@ -4,11 +4,7 @@ Donate link: http://www.hityou.net/link-improver
 Tags: link, post
 Requires at least: 1.5
 Tested up to: 2.7
-Stable tag: 0.1
-
-
-== Screenshots ==
-1. Link Improver Seeting
+Stable tag: 0.2
 
 == Description ==
 
@@ -25,4 +21,15 @@ Features include configurable colour scheme .
 3. Log in to your WordPress admin and got to the 'Plugins' section. You should now see Link Improver in the list of available plugins
 4. Activate the plugin by clicking the 'activate' link
 5. Now go to the 'Options' section and select 'Link Improver' where you can configure the plugin
+
+==Usage==
+In your post or page, you can do as follows:
+
+[dlink]
+Write anything which contains links here!!
+[/dlink]
+
+
+== Screenshots ==
+1. Link Improver Seeting
 
