@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name:Link Improver
-Plugin URI: http://www.hityou.net/link-improver
+Plugin URI: http://wordpress.org/extend/plugins/link-improver
 Description:By using the 'Link Improver',you can automatically enhance your casual links to look and work better.
 Author: Luke
-Version: 0.2
-Author URI: http://www.hityou.net
+Version: 0.3
+Author URI: http://geeklu.com
 */
 
 /** l10n */

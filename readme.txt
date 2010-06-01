@@ -1,10 +1,10 @@
 === Link Improver===
 Contributors: Luke
-Donate link: http://www.hityou.net/link-improver
+Donate link: http://geeklu.com
 Tags: link, post
 Requires at least: 1.5
-Tested up to: 2.7
-Stable tag: 0.2
+Tested up to: 2.9
+Stable tag: 0.3
 
 == Description ==
 
